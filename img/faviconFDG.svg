@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="faviconFDG.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     inkscape:clip-to-page="true"
+     inkscape:zoom="36.65625"
+     inkscape:cx="6.4245524"
+     inkscape:cy="9.4799659"
+     inkscape:window-width="2560"
+     inkscape:window-height="1369"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#191724;fill-opacity:1"
+       id="rect1"
+       width="16.136402"
+       height="16.150043"
+       x="-0.12276215"
+       y="-0.12276215"
+       rx="1.0490297e-16" />
+    <text
+       xml:space="preserve"
+       style="font-size:400px;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono';fill:#191724;fill-opacity:1"
+       x="1.827792"
+       y="4.0920715"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         x="1.827792"
+         y="4.0920715" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:400px;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono';fill:#191724;fill-opacity:1"
+       x="2.5270176"
+       y="2.8356609"
+       id="text2"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         x="2.5270176"
+         y="2.8356609" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.66667px;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono';fill:#ffffff;fill-opacity:1"
+       x="1.9566613"
+       y="10.433334"
+       id="text3"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         x="1.9566613"
+         y="10.433334"><tspan
+           style="fill:#31748f;fill-opacity:1"
+           id="tspan4">F</tspan><tspan
+           style="fill:#ebbcba;fill-opacity:1"
+           id="tspan5">D</tspan><tspan
+           style="fill:#00add8;fill-opacity:1"
+           id="tspan6">G</tspan></tspan></text>
+  </g>
+</svg>
